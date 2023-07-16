@@ -1,8 +1,8 @@
 <p align='center'>
   <b>✨ Follow me here ✨</b><br>  
   <a href="https://discord.gg/yDayBSHWbk">Discord</a> | |
-  <a href="https://github.com/greggrus">Github</a><br><br>
-  <img src="https://github.com/greggrus/webhook-client/blob/main/demo/1.png?raw=true" style="width: 80%">
+  <a href="https://github.com/Ziakimbogo">Github</a><br><br>
+  <img src="https://github.com/Ziakimbogo/webhook-client/blob/main/demo/1.png?raw=true" style="width: 80%">
 </p>
 
 ##  
@@ -29,9 +29,9 @@
 
 ### 📸 Demos
 - #### Main
-    <img src="https://github.com/greggrus/webhook-client/blob/main/demo/1.png?raw=true">
+    <img src="https://github.com/Ziakimbogo/webhook-client/blob/main/demo/1.png?raw=true">
 - #### Login
-    <img src="https://github.com/greggrus/webhook-client/blob/main/demo/2.png?raw=true">
+    <img src="https://github.com/Ziakimbogo/webhook-client/blob/main/demo/2.png?raw=true">
 
 ##   
 
